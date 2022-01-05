@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in blog posts
-        uses: Lisa3x3x3/blog-post-workflow@main
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://lisa3x3x3.com/feed/"
