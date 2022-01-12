@@ -2,7 +2,6 @@
 
 <br />
 
-### My blog posts
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Project: Time Eclipse](https://lisa3x3x3.com/2017/12/31/project-time-eclipse/)
