@@ -2,7 +2,23 @@
 
 <br />
 
-### Blog posts
+🌱 I'm currently learning more about React/Docker/GH Workflows/Japanese/Everything™
+
+🥅 My 2022 goal is to be a AWS Solution Architect 🌥️
+
+🏅 I'm a certified AWS Cloud Practitioner and AWS Developer Associate 
+
+🧑‍🌾 Outside of the office, I'm a tiny farm enthusiast, 🐤🐑🌽
+
+🎮 borderline obsessive gamer,
+
+🌏 wannabe traveller,
+
+🧭 and [Geocacher](https://www.geocaching.com/play)
+
+
+### Sometimes I write about stuff 
+(only sometimes, so blog-post-workflow will update this if there's ever something new ✨)
 <!-- BLOG-POST-LIST:START -->
 - [Project: Time Eclipse](https://lisa3x3x3.com/2017/12/31/project-time-eclipse/)
 - [Kiwi Foo Camp 2016](https://lisa3x3x3.com/2016/04/17/kiwi-foo-camp-2016/)
