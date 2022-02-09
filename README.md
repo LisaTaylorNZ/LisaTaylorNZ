@@ -17,6 +17,24 @@
 🧭 and [Geocacher](https://www.geocaching.com/play)
 
 
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://www.lisa3x3x3.com/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.lisa3x3x3.com/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCaa4alc4wMrHSIm4i-VNmvw#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCaa4alc4wMrHSIm4i-VNmvw#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/Lisa3x3x3#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Lisa3x3x3#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lisa3x3x3/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lisa3x3x3/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/lisa3x3x3/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/lisa3x3x3/#gh-dark-mode-only)
+
+
 ### Sometimes I write about stuff 
 (only sometimes, so blog-post-workflow will update this if there's ever something new ✨)
 <!-- BLOG-POST-LIST:START -->
