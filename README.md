@@ -4,7 +4,7 @@
 
 🌱 I'm currently learning more about React/Docker/GH Workflows/Japanese/Everything™
 
-🥅 My 2022 goal is to be a AWS Solution Architect 🌥️
+🥅 My goal is to become a AWS Solution Architect 🌥️
 
 🏅 I'm a certified AWS Cloud Practitioner and AWS Developer Associate 
 
