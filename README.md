@@ -1,14 +1,14 @@
-### Hi there 👋 I'm Lisa - aka [Lisa3x3x3]
+### Hi there 👋 I'm Lisa
 
 <br />
 
-🌱 I'm currently learning more about React/Docker/GH Workflows/Japanese/Everything™
+🌱 I'm currently learning more about React/Docker/GH Workflows/Japanese
 
 🥅 My goal is to become a AWS Solution Architect 🌥️
 
-🏅 I'm a certified AWS Cloud Practitioner and AWS Developer Associate 
+🏅 I'm a certified AWS Cloud Practitioner and Developer Associate 
 
-🧑‍🌾 Outside of the office, I'm a tiny farm enthusiast, 🐤🐑🌽
+🧑‍🌾 Outside of the office, I'm a tiny farm enthusiast,
 
 🎮 borderline obsessive gamer,
 
@@ -44,7 +44,6 @@
 <br />
 
 ### Sometimes I write about stuff 
-(only sometimes, so blog-post-workflow will update this if there's ever something new ✨)
 <!-- BLOG-POST-LIST:START -->
 - [Project: Time Eclipse](https://lisa3x3x3.com/2017/12/31/project-time-eclipse/)
 - [Kiwi Foo Camp 2016](https://lisa3x3x3.com/2016/04/17/kiwi-foo-camp-2016/)
