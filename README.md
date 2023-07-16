@@ -4,9 +4,9 @@
 
 🌱 I'm currently learning more about React/Docker/GH Workflows/Japanese
 
-🥅 My goal is to become a AWS Solution Architect 🌥️
+🥅 My current goal is to pass the N5 [JLPT](https://www.jlpt.jp/e/) 🎌
 
-🏅 I'm a certified AWS Cloud Practitioner and Developer Associate 
+🏅 I'm a certified AWS Cloud Practitioner, Developer Associate and Solution Architect Associate ☁
 
 🧑‍🌾 Outside of the office, I'm a tiny farm enthusiast,
 
