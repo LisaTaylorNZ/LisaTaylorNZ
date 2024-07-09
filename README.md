@@ -43,11 +43,12 @@
 
 <br />
 
-### Sometimes I write about stuff 
+### Sometimes I write about stuff at [lisataylor.nz](http://lisataylor.nz/)
 <!-- BLOG-POST-LIST:START -->
+- [🎣 Phishing for fun and…](https://lisa3x3x3.com/2023/11/09/%f0%9f%8e%a3-phishing-for-fun-and/)
 - [Project: Time Eclipse](https://lisa3x3x3.com/2017/12/31/project-time-eclipse/)
+- [Project: Light Swan](https://lisa3x3x3.com/2015/09/20/project-light-swan/)
 - [Kiwi Foo Camp 2016](https://lisa3x3x3.com/2016/04/17/kiwi-foo-camp-2016/)
-- [New year, new domain. Lisa3x3x3.com is live!](https://lisa3x3x3.com/2016/03/28/new-year-new-domain-lisa3x3x3-com-is-live/)
 - [Presentation at QCon SF 2015 – Creating a rainstorm using infrared and C#](https://lisa3x3x3.com/2015/12/12/presentation-at-qcon-sf-2015-creating-a-rainstorm-using-infrared-and-c/)
-- [The Phoenix Light Swan](https://lisa3x3x3.com/2015/12/02/the-phoenix-light-swan/)
+- [Project: Sparkle Dress](https://lisa3x3x3.com/2015/06/21/project-sparkle-dress/)
 <!-- BLOG-POST-LIST:END -->
