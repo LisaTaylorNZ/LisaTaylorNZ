@@ -10,7 +10,7 @@
 
 🏅 I'm a certified AWS Cloud Practitioner, Developer Associate and Solution Architect Associate ☁
 
-🧑‍🌾 Outside of the office, I'm a tiny farm enthusiast,
+🌾 Outside of the office, I'm a tiny farm enthusiast,
 
 🎮 borderline obsessive gamer,
 
